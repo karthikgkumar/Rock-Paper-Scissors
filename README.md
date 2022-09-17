@@ -4,4 +4,4 @@ Let's play a fun game of rock-paper-scissors.
 * Javascript beginner friendly project
 * Implemented many functionalities using javascript basic concepts and DOM elements.
 
-###So if you are starting to learn javascript, This project is for you!
+### So if you are starting to learn javascript, This project is for you!
